@@ -1,0 +1,14 @@
+series: Basic C++
+title: C++ Strings
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: C++ provides a string class to do most of the difficult string work.
+language: C++
+tags:
+  - Core
+extra_resources:
+connections:
+  - series: Basic C++
+    title: C Strings
